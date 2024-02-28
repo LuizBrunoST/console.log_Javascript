@@ -13,4 +13,4 @@ Estilos em javascript + console.log
 * add Capturar.png
 
 
-[LUMATECH]() | [SCRIPT TUTORIAIS]()
+[LUMAMAX](https://www.lumamax.com.br)
